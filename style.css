@@ -1,0 +1,81 @@
+CustomList{
+    
+
+}
+.HostDiv{
+    margin-right: 0 !important;
+
+}
+.custom-host{
+    text-decoration: none;
+    color:black;
+    padding-top: 5px;
+    padding:10px;
+    
+
+}
+.custom-host:hover{
+    background-color: gray;
+    border-radius: 15%;
+    color:black;
+}
+.cusmargin{
+    margin-left: 130px;
+}
+/* navbar second */
+.nav2{
+    margin-left: 12% !important;
+    
+}
+.search-box {
+      border-radius: 50px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      padding: 8px 16px;
+      background-color: rgb(210, 209, 209);
+      overflow: hidden;
+      width: 85%;
+      
+    }
+    .form-control {
+      border: none !important;
+      box-shadow: none !important;
+      background-color: rgb(210, 209, 209) !important;
+      transition: transform 4s;
+    }
+    .form-control:focus {
+      outline: none;
+    }
+    .form-control:hover{
+        background-color: white !important;
+        transform: scale 1.6s ease;
+        border-radius:25%;
+        
+
+    }
+    .customInput{
+        background-color: rgb(210, 209, 209);
+        padding:3px auto;
+        padding-left: 50px;
+        transition: transform 1s;
+        
+
+
+    }
+    .customInput:hover{
+        background-color: white;
+        /* border-radius: 30%; */
+        border-radius: 30px;
+
+         transform: scale 1.6s ease;
+    }
+    .search-btn {
+      background: linear-gradient(to right, #e91e63, #d81b60);
+      color: white;
+      border-radius: 100px;
+      padding: 6px 20px;
+    }
+    /* Card section */
+    .HomeList{
+        display:flex;
+        gap:5%;
+    }
