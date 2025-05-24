@@ -79,3 +79,24 @@ body{
         display:flex;
         gap:5%;
     }
+.CardImg {
+    height: 180px !important;
+    width: 100%;
+    border-top-left-radius: 10% !important;
+    border-top-right-radius: 10% !important;
+    border-radius: 10%;
+}
+.GuestCard {
+    margin-bottom: 30px;
+    position: relative;
+
+}
+.StickyLine {
+    position: absolute;
+    top: 10px;
+    left: 50px;
+    z-index: 100;
+    font-size: 12px;
+    z-index: 1000;
+
+}
